@@ -1,0 +1,19 @@
+H:\documents\Visual Studios\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+H:\documents\Visual Studios\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+H:\documents\Visual Studios\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+H:\documents\Visual Studios\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+H:\documents\Visual Studios\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+H:\documents\Visual Studios\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\hecto\Documents\GitHub\tic-tack-mario\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\hecto\Documents\GitHub\tic-tack-mario\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\hecto\Documents\GitHub\tic-tack-mario\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\hecto\Documents\GitHub\tic-tack-mario\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\hecto\Documents\GitHub\tic-tack-mario\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\hecto\Documents\GitHub\tic-tack-mario\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\hecto\Desktop\tic-tack-mario-master\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\hecto\Desktop\tic-tack-mario-master\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\hecto\Desktop\tic-tack-mario-master\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\hecto\Desktop\tic-tack-mario-master\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\hecto\Desktop\tic-tack-mario-master\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Desktop\tic-tack-mario-master\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\hecto\Desktop\tic-tack-mario-master\TicTacToe\obj\Debug\TicTacToe.pdb
